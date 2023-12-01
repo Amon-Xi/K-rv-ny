@@ -23,6 +23,7 @@ body{
   }
 
   p{
+    color: turquoise;
     text-align: justify;
    text-decoration: dashed;
    font-family: sans-serif;
